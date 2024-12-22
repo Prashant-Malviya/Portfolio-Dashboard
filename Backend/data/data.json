@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "title": "Kemampuan Merangkum Tulisan",
+      "description": "lorem ispsum doalr sit amet and what not loral ipsum etc...",
+      "language": "Bahasa Sunda",
+      "author": "Al-Baqi Samaan",
+      "image": "https://play-lh.googleusercontent.com/xcsUS0-5BMXSfdnRK7OH0ZFCdAiO6WiI8lyh5pbCay_HqwQpU-Ec1eqWVoZaERdqkcQl"
+    },
+    {
+      "id": 2,
+      "title": "Keterampilan Menulis Artikel",
+      "description": "lorem ispsum doalr sit amet and what not loral ipsum etc...",
+      "language": "Bahasa Indonesia",
+      "author": "Rina Lestari",
+      "image": "https://yrama-widya.co.id/wp-content/uploads/2016/02/dasar-dasar-keterampilan-menulis-scaled.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Membaca Puisi dengan Baik",
+      "description": "lorem ispsum doalr sit amet and what not loral ipsum etc...",
+      "language": "Bahasa Jawa",
+      "author": "Dewi Anggraini",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9NRjHdVeiHjY0wTkGNONVSWr1xP3oTylGWVDezhh736vIwb6Rby5ZPhjjR1DSDovs1ew&usqp=CAU"
+    },
+    {
+        "id": 4,
+        "title": "Meditation for Beginners",
+        "description": "Discover the basics of meditation to find inner peace and clarity.",
+        "language": "Hindi",
+        "author": "Ravi Shankar",
+        "image": "https://images.unsplash.com/photo-1509021436665-8f07dbf5bf1d"
+      },
+      {
+        "id": 5,
+        "title": "Adventures in Astronomy",
+        "description": "A journey through the stars and galaxies to uncover the universe's secrets.",
+        "language": "Spanish",
+        "author": "Carlos Vega",
+        "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa"
+      },
+      {
+        "id": 6,
+        "title": "Gardening 101",
+        "description": "Tips and tricks for growing your own plants, fruits, and vegetables.",
+        "language": "German",
+        "author": "Hannah Bauer",
+        "image": "https://images.unsplash.com/photo-1501004318641-b39e6451bec6"
+      }
+  ]
+  
