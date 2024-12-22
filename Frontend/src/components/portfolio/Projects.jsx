@@ -10,7 +10,7 @@ function Projects({searchQuery}) {
   const fetchData = async () => {
     try {
       setLoading(true);
-      const response = await axios.get(`${import.meta.env.VITE_REACT_BACKEND_BASEURL}/projects`);
+      const response = await axios.get(api_url);
       setData(response.data);
     } catch (error) {
       console.error("Some error is present", error);

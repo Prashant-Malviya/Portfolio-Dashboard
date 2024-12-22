@@ -1,1 +1,1 @@
-export const api_url = ''
+export const api_url = 'https://mocki.io/v1/54caa220-a08f-4f37-bac8-7918ed3e27ba'
