@@ -3,7 +3,7 @@ import Header from "./components/Header";
 import Sidebar from "./components/Sidebar";
 import Content from "./pages/Content";
 import { BrowserRouter as Router } from "react-router-dom";
-import SmallNavbar from "./components/smallNavbar";
+import SmallNavbar from "./components/SmallNavbar";
 
 function App() {
   return (
