@@ -15,7 +15,7 @@ function Sidebar() {
   };
 
   return (
-    <div className="flex flex-col bg-customOrange min-h-screen max-w-60 relative z-10">
+    <div className="flex flex-col bg-customOrange min-h-screen w-64 max-w-72  fixed z-10">
       <div className="flex flex-row space-x-2 font-bold text-white my-8 font-roboto justify-center relative right-12">
         <img src={logo} alt="logo" className="w-8 h-8 rounded-full" />
         <p>LOGO</p>
